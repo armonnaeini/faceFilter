@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>830B3154-8DFE-4ACA-AC99-00305982659E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>830B3154-8DFE-4ACA-AC99-00305982659E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>example-face-tracking-gzmzwsdvarmjfjfaobbrrgeiyrxg</string>
+			<key>timeStartedRecording</key>
+			<real>597606565.760867</real>
+			<key>timeStoppedRecording</key>
+			<real>597606591.75307298</real>
+			<key>title</key>
+			<string>Build target example-face-tracking</string>
+			<key>uniqueIdentifier</key>
+			<string>830B3154-8DFE-4ACA-AC99-00305982659E</string>
+		</dict>
+		<key>F1407511-BC28-440D-882F-40C26686D9CB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.library.static</string>
+			<key>fileName</key>
+			<string>F1407511-BC28-440D-882F-40C26686D9CB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>iPhone+OF_Static_Library-bfqspbghijcxqteihurwpvcbqbfx</string>
+			<key>timeStartedRecording</key>
+			<real>597606591.75643206</real>
+			<key>timeStoppedRecording</key>
+			<real>597606591.75655603</real>
+			<key>title</key>
+			<string>Build target iPhone+OF Static Library</string>
+			<key>uniqueIdentifier</key>
+			<string>F1407511-BC28-440D-882F-40C26686D9CB</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

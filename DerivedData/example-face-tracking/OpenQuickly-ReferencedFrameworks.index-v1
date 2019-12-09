@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>GLKit</string>
+	<string>ARKit</string>
+	<string>AVFoundation</string>
+	<string>QuartzCore</string>
+	<string>Metal</string>
+	<string>GameController</string>
+	<string>CoreGraphics</string>
+	<string>CoreVideo</string>
+	<string>simd</string>
+	<string>MapKit</string>
+	<string>OpenGLES</string>
+	<string>MetalKit</string>
+	<string>AudioToolbox</string>
+	<string>Foundation</string>
+	<string>Accelerate</string>
+	<string>UIKit</string>
+	<string>CoreLocation</string>
+	<string>CoreMedia</string>
+	<string>ImageIO</string>
+	<string>CoreMotion</string>
+</array>
+</plist>

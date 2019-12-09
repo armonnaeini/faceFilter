@@ -1,0 +1,4 @@
+ofxARKit
+ofxCv
+ofxFaceTracker
+ofxOpenCv
