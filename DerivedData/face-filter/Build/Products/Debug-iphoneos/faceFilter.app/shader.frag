@@ -1,16 +1,37 @@
 
+
+
+
 precision highp float;
 uniform float time;
 
 varying vec3 FragPos;
 varying vec3 Normal;
+const float Pi = 3.14159;
+
+const int   complexity      = 7;    // More points of color.
+const float mouse_factor    = 5.0;  // Makes it more/less jumpy.
+const float mouse_offset    = .0;   // Drives complexity in the amount of curls/cuves.  Zero is a single whirlpool.
+const float fluid_speed     = 1.;  // Drives speed, higher number will make it slower.
+const float color_intensity = 0.7;
+
 void main()
 {
-    // gl_FragCoord contains the window relative coordinate for the fragment.
-    // we use gl_FragCoord.x position to control the red color value.
-    // we use gl_FragCoord.y position to control the green color value.
-    // please note that all r, g, b, a values are between 0 and 1.
     
+    
+    vec2 p=(1.2*gl_FragCoord.xy)/110.;
+    
+    for(int i=1;i<complexity;i++)
+    {
+      vec2 newp=p + time*0.01;
+      newp.x+=2.1/float(i)*sin(float(i)*p.y+time/fluid_speed+0.3*float(i)) + .04; // + mouse.y/mouse_factor+mouse_offset;
+      newp.y+=1.4/float(i)*sin(float(i)*p.x+time/fluid_speed+0.3*float(i+10)) - 0.9; // - mouse.x/mouse_factor+mouse_offset;
+      p=newp;
+    }
+    vec3 col=vec3(color_intensity*sin(3.0*p.x)+color_intensity,color_intensity*sin(3.0*p.y)+color_intensity,color_intensity*sin(p.x+p.y)+color_intensity);
+    gl_FragColor=vec4(col, 1.0);
+    
+    /*
     float windowWidth = 1024.0;
     float windowHeight = 1200.0;
     
@@ -41,7 +62,7 @@ void main()
 
     
 //    gl_FragColor = vec4(r, g, b, a);
-    gl_FragColor = vec4(f * color1 + g2 * color2 + vec3(h), .35);
+    gl_FragColor = vec4(f * color1 + g2 * color2 + vec3(h), .35);*/
 
 }
 

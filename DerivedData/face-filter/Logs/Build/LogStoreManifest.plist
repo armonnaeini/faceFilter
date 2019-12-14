@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>0D58F2DB-C178-42F8-8495-09B0E631C99C</key>
+		<key>09239F6D-0F43-4EFF-87F1-D513495EB0A6</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>0D58F2DB-C178-42F8-8495-09B0E631C99C.xcactivitylog</string>
+			<string>09239F6D-0F43-4EFF-87F1-D513495EB0A6.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -32,15 +32,15 @@
 			<key>signature</key>
 			<string>Build faceFilter</string>
 			<key>timeStartedRecording</key>
-			<real>597606500.75813305</real>
+			<real>597973590.59603703</real>
 			<key>timeStoppedRecording</key>
-			<real>597606512.07946503</real>
+			<real>597973590.70270503</real>
 			<key>title</key>
 			<string>Build faceFilter</string>
 			<key>uniqueIdentifier</key>
-			<string>0D58F2DB-C178-42F8-8495-09B0E631C99C</string>
+			<string>09239F6D-0F43-4EFF-87F1-D513495EB0A6</string>
 		</dict>
-		<key>188D3259-F2A3-4DA9-9EAC-107E6F1836BC</key>
+		<key>0B584EC2-A44A-4CD0-A008-E63C4714A584</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -49,32 +49,32 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>188D3259-F2A3-4DA9-9EAC-107E6F1836BC.xcactivitylog</string>
+			<string>0B584EC2-A44A-4CD0-A008-E63C4714A584.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>W</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>face-filter project</string>
 			<key>schemeIdentifier-schemeName</key>
-			<string>example-face-tracking</string>
+			<string>faceFilter</string>
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Build example-face-tracking 1</string>
+			<string>Build faceFilter</string>
 			<key>timeStartedRecording</key>
-			<real>597472624.56442702</real>
+			<real>597974031.39757597</real>
 			<key>timeStoppedRecording</key>
-			<real>597472626.897542</real>
+			<real>597974031.49440897</real>
 			<key>title</key>
-			<string>Build example-face-tracking 1</string>
+			<string>Build faceFilter</string>
 			<key>uniqueIdentifier</key>
-			<string>188D3259-F2A3-4DA9-9EAC-107E6F1836BC</string>
+			<string>0B584EC2-A44A-4CD0-A008-E63C4714A584</string>
 		</dict>
-		<key>35EC7FCB-5DDC-4F97-A999-C5BB2416D8EF</key>
+		<key>0B69E786-E142-4EB7-9DDC-DAD08BEC958C</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -83,32 +83,32 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>35EC7FCB-5DDC-4F97-A999-C5BB2416D8EF.xcactivitylog</string>
+			<string>0B69E786-E142-4EB7-9DDC-DAD08BEC958C.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>W</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>face-filter project</string>
 			<key>schemeIdentifier-schemeName</key>
-			<string>example-face-tracking</string>
+			<string>faceFilter</string>
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Build example-face-tracking 2</string>
+			<string>Build faceFilter</string>
 			<key>timeStartedRecording</key>
-			<real>597472640.28240097</real>
+			<real>597974324.85518801</real>
 			<key>timeStoppedRecording</key>
-			<real>597472697.92704999</real>
+			<real>597974324.95716298</real>
 			<key>title</key>
-			<string>Build example-face-tracking 2</string>
+			<string>Build faceFilter</string>
 			<key>uniqueIdentifier</key>
-			<string>35EC7FCB-5DDC-4F97-A999-C5BB2416D8EF</string>
+			<string>0B69E786-E142-4EB7-9DDC-DAD08BEC958C</string>
 		</dict>
-		<key>7FB83B52-4D67-4E92-A3B8-A2E22DE3F21A</key>
+		<key>169B2E0B-0235-4F1E-B760-A6E22B217607</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -117,30 +117,370 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>7FB83B52-4D67-4E92-A3B8-A2E22DE3F21A.xcactivitylog</string>
+			<string>169B2E0B-0235-4F1E-B760-A6E22B217607.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>W</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>face-filter project</string>
 			<key>schemeIdentifier-schemeName</key>
-			<string>example-face-tracking</string>
+			<string>faceFilter</string>
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Build example-face-tracking 2</string>
+			<string>Build faceFilter</string>
 			<key>timeStartedRecording</key>
-			<real>597472636.84726095</real>
+			<real>597974817.52116096</real>
 			<key>timeStoppedRecording</key>
-			<real>597472637.50234401</real>
+			<real>597974817.65501797</real>
 			<key>title</key>
-			<string>Build example-face-tracking 2</string>
+			<string>Build faceFilter</string>
 			<key>uniqueIdentifier</key>
-			<string>7FB83B52-4D67-4E92-A3B8-A2E22DE3F21A</string>
+			<string>169B2E0B-0235-4F1E-B760-A6E22B217607</string>
+		</dict>
+		<key>1BE79248-EB4F-4449-A0FD-34F349B1DB5D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1BE79248-EB4F-4449-A0FD-34F349B1DB5D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597974575.47979295</real>
+			<key>timeStoppedRecording</key>
+			<real>597974575.89725006</real>
+			<key>title</key>
+			<string>Clean faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>1BE79248-EB4F-4449-A0FD-34F349B1DB5D</string>
+		</dict>
+		<key>25EC493B-D500-4AA9-926D-2ACF23DD977F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>25EC493B-D500-4AA9-926D-2ACF23DD977F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597974282.66178203</real>
+			<key>timeStoppedRecording</key>
+			<real>597974282.79127502</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>25EC493B-D500-4AA9-926D-2ACF23DD977F</string>
+		</dict>
+		<key>53D75561-7FD8-46A4-A02F-DDAD7FEA1FDE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>53D75561-7FD8-46A4-A02F-DDAD7FEA1FDE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597974512.51210499</real>
+			<key>timeStoppedRecording</key>
+			<real>597974512.67270994</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>53D75561-7FD8-46A4-A02F-DDAD7FEA1FDE</string>
+		</dict>
+		<key>548BCFCE-2EE5-4B4C-9D62-CB313B744A59</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>548BCFCE-2EE5-4B4C-9D62-CB313B744A59.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597973796.66416597</real>
+			<key>timeStoppedRecording</key>
+			<real>597973796.75335598</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>548BCFCE-2EE5-4B4C-9D62-CB313B744A59</string>
+		</dict>
+		<key>67B2A77D-315E-4D3E-80AE-4FF4810BB675</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67B2A77D-315E-4D3E-80AE-4FF4810BB675.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597975741.45578599</real>
+			<key>timeStoppedRecording</key>
+			<real>597975741.69775796</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>67B2A77D-315E-4D3E-80AE-4FF4810BB675</string>
+		</dict>
+		<key>681FC8A3-CF31-4B0E-A936-E14C3E36C541</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>681FC8A3-CF31-4B0E-A936-E14C3E36C541.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597974689.06469798</real>
+			<key>timeStoppedRecording</key>
+			<real>597974754.63226402</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>681FC8A3-CF31-4B0E-A936-E14C3E36C541</string>
+		</dict>
+		<key>6BD25EA3-B154-48F4-8E73-52D05EB6BE22</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6BD25EA3-B154-48F4-8E73-52D05EB6BE22.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597972819.13986802</real>
+			<key>timeStoppedRecording</key>
+			<real>597972819.25602698</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>6BD25EA3-B154-48F4-8E73-52D05EB6BE22</string>
+		</dict>
+		<key>6D5FA2D7-4D72-40B3-AEE8-B12230E6FF1D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6D5FA2D7-4D72-40B3-AEE8-B12230E6FF1D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597973770.39711595</real>
+			<key>timeStoppedRecording</key>
+			<real>597973770.56214201</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>6D5FA2D7-4D72-40B3-AEE8-B12230E6FF1D</string>
+		</dict>
+		<key>74601E53-AD68-40B5-A51D-0B6C33621AB3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>74601E53-AD68-40B5-A51D-0B6C33621AB3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597975064.32774305</real>
+			<key>timeStoppedRecording</key>
+			<real>597975064.46289098</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>74601E53-AD68-40B5-A51D-0B6C33621AB3</string>
+		</dict>
+		<key>76B16509-705D-447C-AB04-6C011BA157D5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>76B16509-705D-447C-AB04-6C011BA157D5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597972709.51707995</real>
+			<key>timeStoppedRecording</key>
+			<real>597972761.34262002</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>76B16509-705D-447C-AB04-6C011BA157D5</string>
 		</dict>
 		<key>826C0C51-35D1-4896-83F1-555C2AABFF3A</key>
 		<dict>
@@ -176,7 +516,7 @@
 			<key>uniqueIdentifier</key>
 			<string>826C0C51-35D1-4896-83F1-555C2AABFF3A</string>
 		</dict>
-		<key>BEDF8986-7F6A-4564-B90F-E30F2057D7B7</key>
+		<key>82F52A81-3F14-4AB5-9500-06C5D7E38539</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -185,41 +525,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>BEDF8986-7F6A-4564-B90F-E30F2057D7B7.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>face-filter project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>example-face-tracking</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build example-face-tracking 1</string>
-			<key>timeStartedRecording</key>
-			<real>597472533.353369</real>
-			<key>timeStoppedRecording</key>
-			<real>597472601.61443603</real>
-			<key>title</key>
-			<string>Build example-face-tracking 1</string>
-			<key>uniqueIdentifier</key>
-			<string>BEDF8986-7F6A-4564-B90F-E30F2057D7B7</string>
-		</dict>
-		<key>D81E0BD5-431C-4DA7-87C7-A5CFF7314567</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D81E0BD5-431C-4DA7-87C7-A5CFF7314567.xcactivitylog</string>
+			<string>82F52A81-3F14-4AB5-9500-06C5D7E38539.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -236,15 +542,15 @@
 			<key>signature</key>
 			<string>Build faceFilter</string>
 			<key>timeStartedRecording</key>
-			<real>597472704.07872498</real>
+			<real>597974156.305511</real>
 			<key>timeStoppedRecording</key>
-			<real>597472873.92052495</real>
+			<real>597974156.393543</real>
 			<key>title</key>
 			<string>Build faceFilter</string>
 			<key>uniqueIdentifier</key>
-			<string>D81E0BD5-431C-4DA7-87C7-A5CFF7314567</string>
+			<string>82F52A81-3F14-4AB5-9500-06C5D7E38539</string>
 		</dict>
-		<key>FCEB6360-DC7A-44C4-AC55-0B8E50EB3143</key>
+		<key>8E8808FD-00E5-45C7-A4C9-B123B9922342</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -253,30 +559,472 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>FCEB6360-DC7A-44C4-AC55-0B8E50EB3143.xcactivitylog</string>
+			<string>8E8808FD-00E5-45C7-A4C9-B123B9922342.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>S</string>
+				<string>W</string>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>face-filter project</string>
 			<key>schemeIdentifier-schemeName</key>
-			<string>example-face-tracking</string>
+			<string>faceFilter</string>
 			<key>schemeIdentifier-sharedScheme</key>
 			<integer>1</integer>
 			<key>signature</key>
-			<string>Clean example-face-tracking 2</string>
+			<string>Build faceFilter</string>
 			<key>timeStartedRecording</key>
-			<real>597472639.81655598</real>
+			<real>597973664.75843501</real>
 			<key>timeStoppedRecording</key>
-			<real>597472639.90673101</real>
+			<real>597973664.85377896</real>
 			<key>title</key>
-			<string>Clean example-face-tracking 2</string>
+			<string>Build faceFilter</string>
 			<key>uniqueIdentifier</key>
-			<string>FCEB6360-DC7A-44C4-AC55-0B8E50EB3143</string>
+			<string>8E8808FD-00E5-45C7-A4C9-B123B9922342</string>
+		</dict>
+		<key>94B3DDB9-737D-4A65-8724-A93205335CE1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>94B3DDB9-737D-4A65-8724-A93205335CE1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597973994.02035403</real>
+			<key>timeStoppedRecording</key>
+			<real>597973994.10946405</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>94B3DDB9-737D-4A65-8724-A93205335CE1</string>
+		</dict>
+		<key>9550A622-7C61-4B1B-BE74-9647D578276D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9550A622-7C61-4B1B-BE74-9647D578276D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597974555.41622305</real>
+			<key>timeStoppedRecording</key>
+			<real>597974562.70297205</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>9550A622-7C61-4B1B-BE74-9647D578276D</string>
+		</dict>
+		<key>977E6107-D145-4468-BB2C-319BCA70DF1F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>977E6107-D145-4468-BB2C-319BCA70DF1F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597974399.40871203</real>
+			<key>timeStoppedRecording</key>
+			<real>597974399.50596094</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>977E6107-D145-4468-BB2C-319BCA70DF1F</string>
+		</dict>
+		<key>9A89E1BF-6E7A-44AF-831E-3301428BF959</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9A89E1BF-6E7A-44AF-831E-3301428BF959.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597975471.24900603</real>
+			<key>timeStoppedRecording</key>
+			<real>597975471.48984802</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>9A89E1BF-6E7A-44AF-831E-3301428BF959</string>
+		</dict>
+		<key>A7C3C0B9-447A-4341-90F8-8DB60E2EFB1C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A7C3C0B9-447A-4341-90F8-8DB60E2EFB1C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597974105.83903503</real>
+			<key>timeStoppedRecording</key>
+			<real>597974105.92356706</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>A7C3C0B9-447A-4341-90F8-8DB60E2EFB1C</string>
+		</dict>
+		<key>BAC047BE-EACE-4410-9E0A-DC2753007FAC</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BAC047BE-EACE-4410-9E0A-DC2753007FAC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597975508.38304198</real>
+			<key>timeStoppedRecording</key>
+			<real>597975508.48475099</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>BAC047BE-EACE-4410-9E0A-DC2753007FAC</string>
+		</dict>
+		<key>BE397331-0B66-47AB-92AA-11110DAC4C79</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BE397331-0B66-47AB-92AA-11110DAC4C79.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597973547.63741803</real>
+			<key>timeStoppedRecording</key>
+			<real>597973547.81654596</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>BE397331-0B66-47AB-92AA-11110DAC4C79</string>
+		</dict>
+		<key>CFF66C2C-6B82-4F70-B2ED-C65E2753484A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CFF66C2C-6B82-4F70-B2ED-C65E2753484A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597973944.37355196</real>
+			<key>timeStoppedRecording</key>
+			<real>597973944.52488399</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>CFF66C2C-6B82-4F70-B2ED-C65E2753484A</string>
+		</dict>
+		<key>D6F853CC-7AB2-428E-B564-C6EBEB75671B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D6F853CC-7AB2-428E-B564-C6EBEB75671B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597974146.30988002</real>
+			<key>timeStoppedRecording</key>
+			<real>597974146.39834201</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>D6F853CC-7AB2-428E-B564-C6EBEB75671B</string>
+		</dict>
+		<key>DBBE45F9-9F79-4ED3-A577-CDC9A32BF413</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DBBE45F9-9F79-4ED3-A577-CDC9A32BF413.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597973967.84724498</real>
+			<key>timeStoppedRecording</key>
+			<real>597973967.93708396</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>DBBE45F9-9F79-4ED3-A577-CDC9A32BF413</string>
+		</dict>
+		<key>E9F2429E-7DF0-490F-8843-0863D001357A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E9F2429E-7DF0-490F-8843-0863D001357A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597975481.22598803</real>
+			<key>timeStoppedRecording</key>
+			<real>597975481.32975698</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>E9F2429E-7DF0-490F-8843-0863D001357A</string>
+		</dict>
+		<key>FA49F4C0-30BC-4150-B9EB-04A5EFC71CD1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FA49F4C0-30BC-4150-B9EB-04A5EFC71CD1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597975303.75676095</real>
+			<key>timeStoppedRecording</key>
+			<real>597975304.01081002</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>FA49F4C0-30BC-4150-B9EB-04A5EFC71CD1</string>
+		</dict>
+		<key>FDD82616-E083-4CFE-85B9-B328ACA2ADC0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FDD82616-E083-4CFE-85B9-B328ACA2ADC0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>face-filter project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>faceFilter</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build faceFilter</string>
+			<key>timeStartedRecording</key>
+			<real>597973646.484182</real>
+			<key>timeStoppedRecording</key>
+			<real>597973646.66476405</real>
+			<key>title</key>
+			<string>Build faceFilter</string>
+			<key>uniqueIdentifier</key>
+			<string>FDD82616-E083-4CFE-85B9-B328ACA2ADC0</string>
 		</dict>
 	</dict>
 </dict>

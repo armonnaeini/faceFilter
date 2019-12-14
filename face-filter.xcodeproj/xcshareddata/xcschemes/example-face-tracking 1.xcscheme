@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-               BuildableName = "example-face-tracking.app"
+               BuildableName = "faceFilter.app"
                BlueprintName = "example-face-tracking"
                ReferencedContainer = "container:face-filter.xcodeproj">
             </BuildableReference>
@@ -45,7 +45,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-            BuildableName = "example-face-tracking.app"
+            BuildableName = "faceFilter.app"
             BlueprintName = "example-face-tracking"
             ReferencedContainer = "container:face-filter.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "1D6058900D05DD3D006BFB54"
-            BuildableName = "example-face-tracking.app"
+            BuildableName = "faceFilter.app"
             BlueprintName = "example-face-tracking"
             ReferencedContainer = "container:face-filter.xcodeproj">
          </BuildableReference>

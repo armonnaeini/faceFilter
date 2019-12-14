@@ -1,0 +1,44 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E23D215223B9BA3B0402F746DAC9194F20D48D4C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A4D0373C699384D3146D509694B516AB9C7B5AD6" : 0,
+    "E23D215223B9BA3B0402F746DAC9194F20D48D4C" : 0,
+    "BAD1A7B3F46E373619D553297675A5CED0BEAADF" : 0,
+    "37526DA425E5430474A14FBFA1BC4525160B5FC1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7010BACD-CBBD-46D0-9CB1-2C82CEAE06A8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A4D0373C699384D3146D509694B516AB9C7B5AD6" : "..\/..\/addons\/ofxFaceTracker",
+    "E23D215223B9BA3B0402F746DAC9194F20D48D4C" : "faceFilter\/",
+    "BAD1A7B3F46E373619D553297675A5CED0BEAADF" : "..\/..\/addons\/ofxARKit",
+    "37526DA425E5430474A14FBFA1BC4525160B5FC1" : "..\/..\/addons\/ofxCv"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "face-filter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "face-filter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kylemcdonald\/ofxCv.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "37526DA425E5430474A14FBFA1BC4525160B5FC1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kylemcdonald\/ofxFaceTracker.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A4D0373C699384D3146D509694B516AB9C7B5AD6"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sortofsleepy\/ofxARKit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BAD1A7B3F46E373619D553297675A5CED0BEAADF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/armonnaeini\/faceFilter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E23D215223B9BA3B0402F746DAC9194F20D48D4C"
+    }
+  ]
+}

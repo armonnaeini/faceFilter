@@ -3,12 +3,12 @@
 <plist version="1.0">
 <array>
 	<string>GLKit</string>
-	<string>ARKit</string>
 	<string>AVFoundation</string>
+	<string>ARKit</string>
 	<string>QuartzCore</string>
-	<string>Metal</string>
 	<string>GameController</string>
 	<string>CoreGraphics</string>
+	<string>Metal</string>
 	<string>CoreVideo</string>
 	<string>simd</string>
 	<string>MapKit</string>
@@ -17,9 +17,9 @@
 	<string>AudioToolbox</string>
 	<string>UIKit</string>
 	<string>Accelerate</string>
-	<string>CoreLocation</string>
-	<string>CoreMedia</string>
 	<string>Foundation</string>
+	<string>CoreMedia</string>
+	<string>CoreLocation</string>
 	<string>ImageIO</string>
 	<string>CoreMotion</string>
 </array>
